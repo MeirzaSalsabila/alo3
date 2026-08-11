@@ -43,7 +43,7 @@ function refreshTime() {
 }
 function getGreetText() {
   var typed = new Typed("#greet-text", {
-    strings: [greetingTextTo("Kaaaaaa hehe...")], 
+    strings: [greetingTextTo("sayanggg")], 
     loop: false,
     typeSpeed: 50, 
     showCursor: false,
